@@ -1,2 +1,2 @@
 # Number-Guessing-Game
-A beginner level python code for a number guessing game from the range of 1 - 100. 
+This is a simple Python number guessing game where the computer randomly selects a number between 1 and 100 and the player must guess it within a limited number of attempts. The user can choose between an easy or hard difficulty, which affects how many lives they have. After each guess, the program provides feedback by telling the player whether the correct number is higher or lower. The game continues until the player guesses the number correctly or runs out of lives, making it a great beginner project for practising loops, conditionals, user input, and basic error handling in Python.
